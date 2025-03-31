@@ -10,6 +10,7 @@ More Templates: [EdgeOne Pages](https://edgeone.ai/pages/templates)
 
 ## Getting Started
 
+
 First, run the development server:
 
 ```bash
